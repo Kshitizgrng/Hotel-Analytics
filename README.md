@@ -1,5 +1,7 @@
 # Executive Revenue & Ops Dashboard 🏨
 
+**Live Demo:** [https://hotel-analytics-kcast7amfrsdhdrnn5sfry.streamlit.app/](https://hotel-analytics-kcast7amfrsdhdrnn5sfry.streamlit.app/)
+
 A professional, data-driven analytics suite for luxury hotels to track segment yield, operational flow, and revenue goals.
 
 ---
