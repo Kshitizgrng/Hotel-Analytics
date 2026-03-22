@@ -52,3 +52,11 @@ Streamlit Cloud can **read** from GitHub but cannot **write** back to it.
 * **Framework:** Streamlit
 * **Visuals:** Plotly
 * **Data:** Pandas
+
+---
+
+### DATA PRIVACY DISCLAIMER 🛡️
+
+**CONFIDENTIALITY NOTICE:** This dashboard is a personal portfolio project demonstrating technical proficiency in Data Visualization and Yield Management using Python and Streamlit. 
+
+**All data displayed herein is entirely simulated and randomized.** It does not contain, reflect, or represent actual proprietary data, financials, or performance metrics of any specific hotel, brand, or real-world entity.
